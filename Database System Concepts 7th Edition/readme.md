@@ -6,9 +6,7 @@ marp: true
 
 by Abraham Silberschatz (Author), Henry Korth (Author), S. Sudarshan (Author)
 
-![Database System Concepts 7th Edition](https://images-na.ssl-images-amazon.com/images/I/51EoEyDdvUL.jpg)
-
-https://www.amazon.com/dp/1260084507
+![https://www.amazon.com/dp/1260084507](https://images-na.ssl-images-amazon.com/images/I/61aEyYvsBmL._AC_UL232_SR232,232_.jpg)
 
 ---
 
