@@ -32,6 +32,14 @@ marp: true
 
 ![https://www.amazon.com/dp/B08CMF2CQF](https://images-na.ssl-images-amazon.com/images/I/61HlS-BupKL._AC_UL232_SR232,232_.jpg)
 
-### 剑指Offer:名企面试官精讲典型编程题(第2版) by 何海涛
+---
+
+### 剑指 Offer:名企面试官精讲典型编程题(第 2 版) by 何海涛
 
 ![https://www.amazon.com/dp/B071FZJ9X2](https://images-na.ssl-images-amazon.com/images/I/51vNc3ZZJOL._AC_UL232_SR232,232_.jpg)
+
+---
+
+### Elements of Programming Interviews in Python: The Insiders' Guide by Adnan Aziz, Tsung-Hsien Lee, Amit Prakash
+
+![https://www.amazon.com/dp/1537713949](https://images-na.ssl-images-amazon.com/images/I/61BTafHPRAL._AC_UL232_SR232,232_.jpg)
