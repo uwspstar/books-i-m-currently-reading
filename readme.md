@@ -31,3 +31,7 @@ marp: true
 ### 3. System Design Interview – An insider's guide, Second Edition - by Alex Xu
 
 ![https://www.amazon.com/dp/B08CMF2CQF](https://images-na.ssl-images-amazon.com/images/I/61HlS-BupKL._AC_UL232_SR232,232_.jpg)
+
+### 4. 剑指Offer:名企面试官精讲典型编程题(第2版) by 何海涛
+
+![https://www.amazon.com/dp/B071FZJ9X2](https://images-na.ssl-images-amazon.com/images/I/51vNc3ZZJOL._AC_UL232_SR232,232_.jpg)
