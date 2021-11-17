@@ -113,3 +113,40 @@ java.util.Iterator              hasNext(),  next(), remove()
 ---
 
 # Memory management.
+
+# Immutability.
+
+---
+
+# final
+
+- When you declare a variable to be final, you are promising to assign it a value only once, either in an initializer or in the constructor. Code that could modify the value of a final variable leads to a compile-time error.
+
+---
+
+# immutability
+
+- The down- side of immutability is that a new object must be created for every value.
+
+---
+
+# Whythedistinctionbetweenprimitiveandreferencetypes? Why not just have reference types?
+
+- A. Performance.Java provides the reference types Integer,Double,and so forth that correspond to primitive types that can be used by programmers who prefer to ignore the distinction. Primitive types are closer to the types of data that are supported by computer hardware, so programs that use them usually run faster than programs that use corresponding reference types.
+
+---
+
+# What happens if I forget to use new when creating an object?
+
+- cannot find symbol error
+
+---
+
+# What happens if I forget to use new when creating an array of objects ?
+
+- You need to use new foreach object that you create,so when you create an array of N objects, you need to use new N+1 times: once for the array and once for each of the objects.
+
+```java
+    Counter[] a;
+    a[0] = new Counter("test");
+```
