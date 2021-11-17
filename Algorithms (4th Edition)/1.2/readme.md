@@ -150,3 +150,9 @@ java.util.Iterator              hasNext(),  next(), remove()
     Counter[] a;
     a[0] = new Counter("test");
 ```
+
+---
+
+# How do I make a class immutable?
+
+- To ensure immutability of a data type that includes an instance variable of a mutable type, we need to make a local copy, known as a defensive copy. And that may not be enough. Making the copy is one challenge; ensuring that none of the instance methods change values is another.
