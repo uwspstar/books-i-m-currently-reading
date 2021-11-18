@@ -6,7 +6,11 @@ marp: true
 
 ---
 
-### 1. Algorithms (4th Edition) 4th Edition by Robert Sedgewick, Kevin Wayne
+### 算法图解
+
+- ![https://www.amazon.com/dp/B06XKCV7X9](https://images-na.ssl-images-amazon.com/images/I/51ELMm8jKNL._AC_UL232_SR232,232_.jpg)
+
+### Algorithms (4th Edition) 4th Edition by Robert Sedgewick, Kevin Wayne
 
 ![https://www.amazon.com/dp/032157351X](https://images-na.ssl-images-amazon.com/images/I/41-RWwEls6L._AC_UL232_SR232,232_.jpg)
 
@@ -42,4 +46,18 @@ marp: true
 
 ### Elements of Programming Interviews in Python: The Insiders' Guide by Adnan Aziz, Tsung-Hsien Lee, Amit Prakash
 
+---
+
 ![https://www.amazon.com/dp/1537713949](https://images-na.ssl-images-amazon.com/images/I/61BTafHPRAL._AC_UL232_SR232,232_.jpg)
+
+### Understanding Distributed Systems: What every developer should know about large distributed applications by Roberto Vitillo (Author)
+
+---
+
+![https://www.amazon.com/dp/1838430202](https://images-na.ssl-images-amazon.com/images/I/515I5fp5Q3L._AC_UL232_SR232,232_.jpg)
+
+### The System Design Interview, 2nd Edition by Lewis C. Lin (Author), Shivam P. Patel (Author)
+
+---
+
+![https://www.amazon.com/dp/B09559NJKL](https://images-na.ssl-images-amazon.com/images/I/31WzkbX9riL._AC_UL232_SR232,232_.jpg)
