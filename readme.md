@@ -8,6 +8,12 @@ marp: true
 
 # Books I am reading
 
+### Kafka: The Definitive Guide: Real-Time Data and Stream Processing at Scale by Neha Narkhede  (Author), Gwen Shapira (Author), Todd Palino (Author)
+
+- ![https://www.amazon.com/dp/1491936169](https://images-na.ssl-images-amazon.com/images/I/71wxreQ3YEL._AC_UL232_SR232,232_.jpg)
+
+---
+
 ### 算法图解
 
 - ![https://www.amazon.com/dp/B06XKCV7X9](https://images-na.ssl-images-amazon.com/images/I/51ELMm8jKNL._AC_UL232_SR232,232_.jpg)
@@ -63,4 +69,5 @@ marp: true
 ---
 
 ### 《TiDB in Action》
+
 - https://book.tidb.io/
