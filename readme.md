@@ -1,13 +1,21 @@
 ---
 marp: true
 ---
-
+# Books I am reading
 # 2022
+
+### Go Programming Language, The (Addison-Wesley Professional Computing Series) 1st Edition by Alan Donovan  (Author), Brian Kernighan (Author)
+
+![https://www.amazon.com/dp/0134190440](https://images-na.ssl-images-amazon.com/images/I/41qFBGwas+L._AC_UL232_SR232,232_.jpg)
+
+### GO Programming in easy steps: Learn coding with Google's Go language by Mike McGrath  (Author)
+
+![https://www.amazon.com/dp/1840789190](https://images-na.ssl-images-amazon.com/images/I/81sWvTHSSlL._AC_UL232_SR232,232_.jpg)
 
 ---
 
 # Books I am reading
-
+# 2021
 ### Kafka: The Definitive Guide: Real-Time Data and Stream Processing at Scale by Neha Narkhede  (Author), Gwen Shapira (Author), Todd Palino (Author)
 
 - ![https://www.amazon.com/dp/1491936169](https://images-na.ssl-images-amazon.com/images/I/71wxreQ3YEL._AC_UL232_SR232,232_.jpg)
