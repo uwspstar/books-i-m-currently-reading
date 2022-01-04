@@ -8,6 +8,8 @@ marp: true
 
 ![https://www.amazon.com/dp/0134190440](https://images-na.ssl-images-amazon.com/images/I/41qFBGwas+L._AC_UL232_SR232,232_.jpg)
 
+---
+
 ### GO Programming in easy steps: Learn coding with Google's Go language by Mike McGrath  (Author)
 
 ![https://www.amazon.com/dp/1840789190](https://images-na.ssl-images-amazon.com/images/I/81sWvTHSSlL._AC_UL232_SR232,232_.jpg)
