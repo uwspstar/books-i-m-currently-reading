@@ -2,6 +2,14 @@
 marp: true
 ---
 # Books I am reading
+
+# 2024
+
+### Build a Large Language Model (From Scratch) by Sebastian Raschka 
+![https://www.amazon.com/dp/1633437167](https://m.media-amazon.com/images/I/71eljkULtwL._SY522_.jpg)
+
+---
+
 # 2022
 
 ### Go Programming Language, The (Addison-Wesley Professional Computing Series) 1st Edition by Alan Donovan  (Author), Brian Kernighan (Author)
